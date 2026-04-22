@@ -6,20 +6,6 @@ Streams live trade data directly from Binance, processes it through a Kafka pipe
 
 ---
 
-## Preview
-
-![Screenshot 2](Screenshot%202026-04-22%20133409.png)
-
-![Screenshot 3](Screenshot%202026-04-22%20133422.png)
-
-![Screenshot 5](Screenshot%202026-04-22%20133459.png)
-
-![Screenshot 6](Screenshot%202026-04-22%20133519.png)
-
-![Screenshot 7](Screenshot%202026-04-22%20133527.png)
-
----
-
 ## Tech Stack
 
 | Layer | Technology |
@@ -164,3 +150,24 @@ dev < -0.01%  →  BUY   (price undervalued)
 ├── start.bat                # One-click Windows launcher
 └── .env                     # Environment config (optional)
 ```
+
+---
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="Screenshot%202026-04-22%20133409.png" alt="Live Order Stream"/></td>
+    <td><img src="Screenshot%202026-04-22%20133422.png" alt="Price Chart with SMA"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshot%202026-04-22%20133459.png" alt="SELL Signal"/></td>
+    <td><img src="Screenshot%202026-04-22%20133519.png" alt="Signal Cards"/></td>
+  </tr>
+</table>
+
+<br/>
+
+**Full Dashboard**
+
+![Full Dashboard](Screenshot%202026-04-22%20133527.png)
