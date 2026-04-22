@@ -8,13 +8,9 @@ Streams live trade data directly from Binance, processes it through a Kafka pipe
 
 ## Preview
 
-![Screenshot 1](Screenshot%202026-04-22%20132338.png)
-
 ![Screenshot 2](Screenshot%202026-04-22%20133409.png)
 
 ![Screenshot 3](Screenshot%202026-04-22%20133422.png)
-
-![Screenshot 4](Screenshot%202026-04-22%20133452.png)
 
 ![Screenshot 5](Screenshot%202026-04-22%20133459.png)
 
