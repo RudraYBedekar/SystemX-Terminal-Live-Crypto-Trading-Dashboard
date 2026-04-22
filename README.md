@@ -6,17 +6,28 @@ A real-time, event-driven cryptocurrency trading dashboard built with **Apache K
 
 ## Screenshots
 
-![Dashboard Overview](image.png)
+> Live dashboard running with real Binance trade data and Kafka-powered signal generation.
 
-![Live Order Stream](image%20copy%202.png)
+**Full Terminal View**
+![Full Terminal View](Screenshot%202026-04-22%20132338.png)
 
-![Price Chart with SMA](image%20copy%203.png)
+**Live Order Stream**
+![Live Order Stream](Screenshot%202026-04-22%20133409.png)
 
-![Trading Signals](image%20copy%204.png)
+**Price Chart with SMA Overlay**
+![Price Chart with SMA](Screenshot%202026-04-22%20133422.png)
 
-![Signal Cards](image%20copy%205.png)
+**BUY Signal Generated**
+![BUY Signal](Screenshot%202026-04-22%20133452.png)
 
-![Full Terminal View](image%20copy%206.png)
+**SELL Signal Generated**
+![SELL Signal](Screenshot%202026-04-22%20133459.png)
+
+**Signal Cards Feed**
+![Signal Cards](Screenshot%202026-04-22%20133519.png)
+
+**Chart Markers (BUY/SELL Arrows)**
+![Chart Markers](Screenshot%202026-04-22%20133527.png)
 
 ---
 
