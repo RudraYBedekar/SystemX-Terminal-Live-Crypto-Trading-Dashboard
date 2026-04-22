@@ -6,6 +6,21 @@ Streams live trade data directly from Binance, processes it through a Kafka pipe
 
 ---
 
+## Why I Built This
+
+I built this project to learn and test **Apache Kafka** in a real-world scenario — not just follow a tutorial.
+
+The idea was simple: instead of building a boring CRUD app, I wanted to see how Kafka handles a genuinely high-frequency, real-time data stream. Cryptocurrency trade data from Binance is perfect for this — it's fast, continuous, and unpredictable, which makes it a great stress test for an event-driven pipeline.
+
+The goal was to answer a few questions for myself:
+- Can Kafka reliably decouple a live data producer from multiple consumers without data loss?
+- How does a stream processor behave when it needs to maintain state (like a rolling SMA window) across thousands of messages?
+- How do you push real-time Kafka events all the way to a browser with minimal latency?
+
+This project is the result of that experiment — a fully working pipeline from raw WebSocket data to a live trading dashboard, with Kafka sitting at the center of it all.
+
+---
+
 ## Tech Stack
 
 | Layer | Technology |
