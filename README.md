@@ -172,17 +172,22 @@ dev < -0.01%  →  BUY   (price undervalued)
 
 <table>
   <tr>
-    <td><img src="LiveOrderStream.png" alt="Live Order Stream"/></td>
-    <td><img src="PriceChartwithSMA.png" alt="Price Chart with SMA"/></td>
-    
+    <td align="center">
+      <img src="assets/LiveOrderStream.png" alt="Live Order Stream" width="100%"/>
+    </td>
+    <td align="center">
+      <img src="assets/PriceChartwithSMA.png" alt="Price Chart with SMA" width="100%"/>
+    </td>
   </tr>
   <tr>
-    <td><img src="SELLSigna.png" alt="SELL Signal"/></td>
-    <td><img src="SignalCard.png" alt="Signal Cards"/></td>
+    <td align="center">
+      <img src="assets/SELLSignal.png" alt="SELL Signal" width="100%"/>
+    </td>
+    <td align="center">
+      <img src="assets/SignalCard.png" alt="Signal Cards" width="100%"/>
+    </td>
   </tr>
 </table>
-
-<br/>
 
 **Full Dashboard**
 
