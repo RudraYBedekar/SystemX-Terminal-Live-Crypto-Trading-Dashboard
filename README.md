@@ -172,12 +172,13 @@ dev < -0.01%  →  BUY   (price undervalued)
 
 <table>
   <tr>
-    <td><img src="Screenshot%202026-04-22%20133409.png" alt="Live Order Stream"/></td>
-    <td><img src="Screenshot%202026-04-22%20133422.png" alt="Price Chart with SMA"/></td>
+    <td><img src="LiveOrderStream.png" alt="Live Order Stream"/></td>
+    <td><img src="PriceChartwithSMA.png" alt="Price Chart with SMA"/></td>
+    
   </tr>
   <tr>
-    <td><img src="Screenshot%202026-04-22%20133459.png" alt="SELL Signal"/></td>
-    <td><img src="Screenshot%202026-04-22%20133519.png" alt="Signal Cards"/></td>
+    <td><img src="SELLSigna.png" alt="SELL Signal"/></td>
+    <td><img src="SignalCard.png" alt="Signal Cards"/></td>
   </tr>
 </table>
 
@@ -185,4 +186,4 @@ dev < -0.01%  →  BUY   (price undervalued)
 
 **Full Dashboard**
 
-![Full Dashboard](Screenshot%202026-04-22%20133527.png)
+![Full Dashboard](FullDashbaord.png)
